@@ -1,0 +1,351 @@
+[
+    {
+        "id": 1,
+        "name": "ChatGPT",
+        "category": "نصوص",
+        "price": "مجاني / 20$ شهرياً",
+        "desc": "مساعد ذكي يعتمد على نماذج اللغة الضخمة لكتابة المحتوى والبرمجة.",
+        "longDesc": "ChatGPT هو نموذج لغة متطور تم تطويره بواسطة OpenAI، قادر على فهم وتوليد النصوص بطريقة تشبه البشر. يمكن استخدامه في كتابة المقالات، حل المشكلات البرمجية، وتعلم لغات جديدة.",
+        "pros": [
+            "سرعة الاستجابة",
+            "دعم ممتاز للغة العربية",
+            "تعدد الاستخدامات بشدة"
+        ],
+        "cons": [
+            "قد يهلوس أحياناً في الحقائق",
+            "النسخة المجانية قد تكون محدودة في الوصول لأحدث النماذج"
+        ],
+        "alternatives": [
+            "Claude",
+            "Google Gemini",
+            "Perplexity"
+        ],
+        "officialLink": "https://chatgpt.com",
+        "image": "https://images.unsplash.com/photo-1676299081847-824916de030a?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 2,
+        "name": "Midjourney",
+        "category": "صور",
+        "price": "من 10$ شهرياً",
+        "desc": "أداة توليد صور فنية مذهلة من الأوصاف النصية.",
+        "longDesc": "يعتبر Midjourney الرائد في مجال تحويل النص إلى صور فنية، حيث يتميز بدقة التفاصيل والجمالية العالية في المخرجات.",
+        "pros": [
+            "جودة صور فنية لا تضاهى",
+            "مجتمع نشط جداً",
+            "تحديثات مستمرة ونماذج قوية"
+        ],
+        "cons": [
+            "واجهة الاستخدام عبر ديسكورد (قد تكون معقدة للبعض)",
+            "لا يوجد نسخة مجانية حالياً"
+        ],
+        "alternatives": [
+            "DALL-E 3",
+            "Stable Diffusion",
+            "Leonardo.ai"
+        ],
+        "officialLink": "https://midjourney.com",
+        "image": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 3,
+        "name": "GitHub Copilot",
+        "category": "برمجة",
+        "price": "10$ شهرياً / 100$ سنوياً",
+        "desc": "مساعد برمجي يقترح كود المصدر والوظائف بالكامل في الوقت الفعلي.",
+        "longDesc": "يعمل Copilot داخل محرر الأكواد الخاص بك ليقترح عليك السطر التالي أو حتى دوال كاملة، مما يسرع عملية التطوير بشكل كبير.",
+        "pros": [
+            "تكامل عميق مع VS Code",
+            "يدعم معظم لغات البرمجة",
+            "يوفر وقت البحث في التوثيق"
+        ],
+        "cons": [
+            "يتطلب اشتراك شهري",
+            "قد يقترح كوداً يحتاج لمراجعة أمنية"
+        ],
+        "alternatives": [
+            "Cursor",
+            "Tabnine",
+            "Amazon CodeWhisperer"
+        ],
+        "officialLink": "https://github.com/features/copilot",
+        "image": "https://images.unsplash.com/photo-1662010836165-4cbb34c47a41?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 4,
+        "name": "ElevenLabs",
+        "category": "صوت",
+        "price": "مجاني / يبدأ من 5$",
+        "desc": "أكثر برامج تحويل النص إلى كلام ذكاءً وواقعية.",
+        "longDesc": "تقنية متطورة لاستنساخ الأصوات وتحويل النصوص إلى مقاطع صوتية بلهجات ومشاعر مختلفة.",
+        "pros": [
+            "أصوات بشرية واقعية جداً",
+            "دعم لغات متعددة بلهجات طبيعية",
+            "سهولة استنساخ الأصوات"
+        ],
+        "cons": [
+            "النسخة المجانية محدودة الأحرف",
+            "تكلفة الاستهلاك قد تكون مرتفعة للمشاريع الكبيرة"
+        ],
+        "alternatives": [
+            "Play.ht",
+            "Murf.ai",
+            "Speechelo"
+        ],
+        "officialLink": "https://elevenlabs.io",
+        "image": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 5,
+        "name": "Claude",
+        "category": "نصوص",
+        "price": "مجاني / 20$ شهرياً",
+        "desc": "منافس قوي لـ ChatGPT يتميز بقدرات استيعاب ضخمة للنصوص.",
+        "longDesc": "Claude من شركة Anthropic يركز على الأمان والذكاء العالي في تحليل الملفات الكبيرة وكتابة النصوص الطويلة.",
+        "pros": [
+            "نافذة سياق ضخمة (تصل لـ 200 ألف توكن)",
+            "أقل عرضة للهلوسة مقارنة بالمنافسين",
+            "كتابة إبداعية وشاعرية"
+        ],
+        "cons": [
+            "غير متوفر في بعض الدول",
+            "النسخة المجانية لها حدود يومية قليلة"
+        ],
+        "alternatives": [
+            "ChatGPT",
+            "Gemini"
+        ],
+        "officialLink": "https://claude.ai",
+        "image": "https://images.unsplash.com/photo-1677442135703-1787eea5cecc?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 6,
+        "name": "Jasper",
+        "category": "نصوص",
+        "price": "يبدأ من 39$ شهرياً",
+        "desc": "أداة متخصصة في كتابة المحتوى التسويقي والإعلاني.",
+        "longDesc": "يساعد Jasper الشركات على كتابة مقالات مدونات وإعلانات فيسبوك ومحتوى تسويقي متوافق مع محركات البحث.",
+        "pros": [
+            "قوالب جاهزة لكل أنواع المحتوى",
+            "تكامل مع أدوات SEO",
+            "ميزة 'صوت العلامة التجارية'"
+        ],
+        "cons": [
+            "سعر مرتفع جداً",
+            "يتطلب مدخلات دقيقة للحصول على نتائج جيدة"
+        ],
+        "alternatives": [
+            "Copy.ai",
+            "Writesonic"
+        ],
+        "officialLink": "https://jasper.ai",
+        "image": "https://images.unsplash.com/photo-1664575196412-ed801e8333a1?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 7,
+        "name": "Leonardo.ai",
+        "category": "صور",
+        "price": "مجاني / مدفوع",
+        "desc": "منصة شاملة لإنشاء الصور والمقاطع المرئية بدقة عالية.",
+        "longDesc": "بديل ممتاز لـ Midjourney يمتلك واجهة ويب سهلة ونماذج متعددة لإنشاء صور فنية وتصاميم ألعاب.",
+        "pros": [
+            "واجهة ويب سهلة الاستخدام",
+            "خطة مجانية سخية يومياً",
+            "إمكانية تدريب النماذج الخاصة بك"
+        ],
+        "cons": [
+            "بعض النماذج المتقدمة تتطلب اشتراكاً",
+            "واجهة المحرر قد تكون مزدحمة للبعض"
+        ],
+        "alternatives": [
+            "Midjourney",
+            "Canva AI"
+        ],
+        "officialLink": "https://leonardo.ai",
+        "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 8,
+        "name": "Runway Gen-2",
+        "category": "فيديو",
+        "price": "مجاني / مدفوع",
+        "desc": "توليد فيديوهات مذهلة من النصوص أو الصور.",
+        "longDesc": "تعد Runway رائدة في مجال تحويل النص إلى فيديو، مما يسمح للمبدعين ببناء عوالم سينمائية في ثوانٍ.",
+        "pros": [
+            "أفضل جودة فيديو AI موجودة حالياً",
+            "ميزات تحرير متقدمة مثل In-painting",
+            "تحديثات سريعة جداً"
+        ],
+        "cons": [
+            "استهلاك الرصيد سريع جداً",
+            "مدة الفيديو المولد قصيرة"
+        ],
+        "alternatives": [
+            "Pika Labs",
+            "Sora (OpenAI)"
+        ],
+        "officialLink": "https://runwayml.com",
+        "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 9,
+        "name": "Cursor",
+        "category": "برمجة",
+        "price": "مجاني / 20$ شهرياً",
+        "desc": "محرر أكواد مبني على VS Code مدمج فيه الذكاء الاصطناعي بعمق.",
+        "longDesc": "يعتبر Cursor مستقبل البرمجة، حيث يفهم مشروعك بالكامل ويساعدك في كتابة وتعديل الملفات دفعة واحدة.",
+        "pros": [
+            "يفهم كامل المشروع (Context window)",
+            "مبني على VS Code (لا حاجة لتعلم واجهة جديدة)",
+            "أذكى من الإضافات العادية"
+        ],
+        "cons": [
+            "الاشتراك قد يكون مرتفعاً للأفراد",
+            "يعتمد بشكل كبير على الاتصال بالإنترنت"
+        ],
+        "alternatives": [
+            "VS Code + Copilot",
+            "Zed"
+        ],
+        "officialLink": "https://cursor.com",
+        "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 10,
+        "name": "Perplexity AI",
+        "category": "نصوص",
+        "price": "مجاني / 20$ شهرياً",
+        "desc": "محرك بحث ذكي يقدم إجابات دقيقة مع ذكر المصادر.",
+        "longDesc": "يجمع Perplexity بين قدرة نماذج اللغة والبحث في الوقت الحقيقي على الإنترنت لتقديم إجابات موثقة.",
+        "pros": [
+            "ذكر المصادر لكل معلومة",
+            "إمكانية اختيار نماذج مختلفة (Claude, GPT-4)",
+            "تطبيق هاتف ممتاز"
+        ],
+        "cons": [
+            "قد يخطئ في تلخيص المصادر المعقدة",
+            "يتطلب اشتراك Pro للميزات الكاملة"
+        ],
+        "alternatives": [
+            "Google Search",
+            "Grok"
+        ],
+        "officialLink": "https://perplexity.ai",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 11,
+        "name": "Adobe Firefly",
+        "category": "صور",
+        "price": "مجاني جزئياً / مدفوع",
+        "desc": "أداة توليد صور وتحريرها مدمجة في منتجات Adobe.",
+        "longDesc": "نماذج إبداعية من Adobe تركز على المحتوى الآمن تجارياً والمدمج مباشرة في Photoshop وIllustrator.",
+        "pros": [
+            "آمن للاستخدام التجاري",
+            "تكامل مذهل مع Photoshop",
+            "ميزة Generative Fill القوية"
+        ],
+        "cons": [
+            "يتطلب اشتراك Creative Cloud للميزات الكاملة",
+            "قد يكون أقل 'فنية' من Midjourney في بعض الحالات"
+        ],
+        "alternatives": [
+            "Canva AI",
+            "DALL-E 3"
+        ],
+        "officialLink": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 12,
+        "name": "Gamma.app",
+        "category": "نصوص",
+        "price": "مجاني / مدفوع",
+        "desc": "إنشاء عروض تقديمية ومواقع ويب في ثوانٍ باستخدام AI.",
+        "longDesc": "أداة ثورية تحول أفكارك أو نصوصك إلى شرائح عرض جميلة ومواقع ويب تفاعلية دون الحاجة لتصميمها يدوياً.",
+        "pros": [
+            "توفير هائل في الوقت",
+            "تصاميم عصرية واحترافية تلقائياً",
+            "تفاعلية وسهلة التعديل"
+        ],
+        "cons": [
+            "تخصيص التصميم الدقيق محدود أحياناً",
+            "النسخة المجانية تضع علامة مائية"
+        ],
+        "alternatives": [
+            "Canva Prezi",
+            "Tome"
+        ],
+        "officialLink": "https://gamma.app",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 13,
+        "name": "Otter.ai",
+        "category": "صوت",
+        "price": "مجاني / مدفوع",
+        "desc": "مساعد الاجتماعات الذي يقوم بتسجيل وتلخيص المحادثات.",
+        "longDesc": "يقوم Otter بتحويل الكلام في الاجتماعات (Zoom, Meet, Teams) إلى نصوص مكتوبة مع تلخيص النقاط المهمة.",
+        "pros": [
+            "دقة عالية في تحويل الكلام لنص",
+            "تكامل مع كل منصات الاجتماعات",
+            "بحث سهل داخل المحاضر"
+        ],
+        "cons": [
+            "دعم اللغة العربية مازال محدوداً",
+            "النسخة المجانية لها حدود شهرية للساعات"
+        ],
+        "alternatives": [
+            "Fireflies.ai",
+            "Rewind"
+        ],
+        "officialLink": "https://otter.ai",
+        "image": "https://images.unsplash.com/photo-1577563906417-45a11b3f9f7c?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 14,
+        "name": "Synthesia",
+        "category": "فيديو",
+        "price": "يبدأ من 22$ شهرياً",
+        "desc": "إنشاء فيديوهات لمقدمين افتراضيين يتحدثون بصوتك.",
+        "longDesc": "منصة رائدة لإنشاء محتوى فيديو تعليمي أو ترويجي باستخدام شخصيات AI تتحدث بأكثر من 120 لغة.",
+        "pros": [
+            "لا حاجة للكاميرا أو الميكروفون",
+            "تعدد الشخصيات واللغات",
+            "سهولة الإنتاج السريع"
+        ],
+        "cons": [
+            "قد تبدو الحركات أحياناً غير طبيعية 100%",
+            "سعر الاشتراك مرتفع للأفراد"
+        ],
+        "alternatives": [
+            "HeyGen",
+            "D-ID"
+        ],
+        "officialLink": "https://www.synthesia.io",
+        "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+        "id": 15,
+        "name": "Canva Magic Studio",
+        "category": "صور",
+        "price": "مجاني / مدفوع",
+        "desc": "مجموعة أدوات AI متكاملة داخل منصة Canva الشهيرة.",
+        "longDesc": "تقدم Canva ميزات سحرية مثل تحويل النص لصور، إزالة الخلفيات، وتغيير العناصر داخل التصميم بضغطة زر.",
+        "pros": [
+            "سهولة مفرطة في الاستخدام",
+            "كل أدوات التصميم في مكان واحد",
+            "خطة Pro توفر قيمة ممتازة"
+        ],
+        "cons": [
+            "جودة الصور المولدة أقل من Midjourney",
+            "بعض الميزات المتقدمة بطيئة قليلاً"
+        ],
+        "alternatives": [
+            "Adobe Express",
+            "Figma"
+        ],
+        "officialLink": "https://www.canva.com/magic-home",
+        "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=400"
+    }
+]
